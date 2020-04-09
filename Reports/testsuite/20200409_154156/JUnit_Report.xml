@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="testsuite" time="10" tests="1" failures="0" errors="0">
+   <testsuite name="testsuite" tests="1" failures="0" errors="0" time="10" timestamp="2020-04-09 15:42:01" hostname="sandy - Sandy" id="Test Suites/testsuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sandy\\Katalon Studio\\calwebservice\\Reports\\testsuite\\20200409_154156"/>
+         <property name="logFiles" value="C:\\Users\\sandy\\Katalon Studio\\calwebservice\\Reports\\testsuite\\20200409_154156\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sandy - Sandy"/>
+         <property name="hostAddress" value="192.168.43.32"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.1.1"/>
+      </properties>
+      <testcase name="Test Cases/rest GET/New Test Case" classname="Test Cases/rest GET/New Test Case" status="PASSED">
+         <system-out><![CDATA[2020-04-09 15:42:02 - [TEST_CASE][PASSED] - Test Cases/rest GET/New Test Case: Test Cases/rest GET/New Test Case
+
+2020-04-09 15:42:03 - [TEST_STEP][PASSED] - sendRequest(findTestObject("rest/New Request")): Send request successfully
+
+2020-04-09 15:42:09 - [MESSAGE][INFO] - HAR: C:\Users\sandy\Katalon Studio\calwebservice\Reports\testsuite\20200409_154156\requests\main\0.har
+
+2020-04-09 15:42:09 - [MESSAGE][PASSED] - Send request successfully
+
+2020-04-09 15:42:09 - [TEST_STEP][PASSED] - sendRequest(findTestObject("rest/create")): Send request successfully
+
+2020-04-09 15:42:10 - [MESSAGE][INFO] - HAR: C:\Users\sandy\Katalon Studio\calwebservice\Reports\testsuite\20200409_154156\requests\main\1.har
+
+2020-04-09 15:42:10 - [MESSAGE][PASSED] - Send request successfully
+
+2020-04-09 15:42:10 - [TEST_STEP][PASSED] - sendRequest(findTestObject("rest/put")): Send request successfully
+
+2020-04-09 15:42:11 - [MESSAGE][INFO] - HAR: C:\Users\sandy\Katalon Studio\calwebservice\Reports\testsuite\20200409_154156\requests\main\2.har
+
+2020-04-09 15:42:11 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-04-09 15:42:01 - [TEST_SUITE][PASSED] - testsuite: Test Cases/rest GET/New Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

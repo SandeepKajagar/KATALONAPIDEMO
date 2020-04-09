@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+testsuite,,,2020-04-09 15:57:22,2020-04-09 15:57:31,8.973s,PASSED
+,,,,,,
+Test Cases/rest GET/New Test Case,,,2020-04-09 15:57:22,2020-04-09 15:57:30,8.278s,PASSED
+"sendRequest(findTestObject(""rest/New Request""))",,,2020-04-09 15:57:23,2020-04-09 15:57:28,5.623s,PASSED
+"sendRequest(findTestObject(""rest/create""))",,,2020-04-09 15:57:28,2020-04-09 15:57:29,1.085s,PASSED
+"sendRequest(findTestObject(""rest/put""))",,,2020-04-09 15:57:29,2020-04-09 15:57:30,0.907s,PASSED
